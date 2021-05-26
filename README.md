@@ -1,3 +1,3 @@
 # an-application
 
-sample update 1
+sample update 2
